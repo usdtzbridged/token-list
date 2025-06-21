@@ -1,0 +1,15 @@
+{
+  "chainId": 101,
+  "address": "57GajvDHazpCCCCpKgiHppJJf5cjwHWancCZZLPoeFMj",
+  "symbol": "wUSDT",
+  "name": "Wrapped USDT(Wormhole)",
+  "decimals": 6,
+  "logoURI": "https://bafkreic6tov6v3chg45jkjrhodt4hoerdo26bgqbvrqh6tugyiy6krll4u.ipfs.w3s.link",
+  "tags": ["stablecoin", "wrapped"],
+  "extensions": {
+    "website": "https://wrappedusdt.carrd.co/",
+    "twitter": "https://x.com/wrappedwusdt",
+    "telegram": "https://t.me/WUSDT_SOL",
+    "github": "https://github.com/wusdt-sol"
+  }
+}
